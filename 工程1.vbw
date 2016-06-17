@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+Form1 = 90, 56, 1274, 688, , 242, 219, 731, 516, C
+ModGetUrlSource = 590, 135, 1306, 722, C
+ModKillProcess = 181, 195, 713, 827, C
+ModGlobal = 478, 280, 1035, 912, C
+VBMTInit = 104, 104, 1351, 752, C
+VBMultiThreadRun = 74, 199, 1321, 847, C
+ModDelay = 78, 78, 1325, 726, C
+=======
+Form1 = 90, 56, 1274, 688, , 242, 219, 731, 516, C
+ModGetUrlSource = 590, 135, 1306, 722, C
+ModKillProcess = 181, 195, 713, 827, C
+ModGlobal = 478, 280, 1035, 912, C
+VBMTInit = 104, 104, 1351, 752, C
+VBMultiThreadRun = 74, 199, 1321, 847, C
+ModDelay = 78, 78, 1325, 726, C
+>>>>>>> 2abdb2e3a24a7144f6e9a89c8664e5d0469ec446

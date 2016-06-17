@@ -1,0 +1,59 @@
+<<<<<<< HEAD
+{
+"configs" : [
+  {
+"server" : "mgm5.sspw.pw",
+"server_port" : 443,
+"password" : "-6ffPrz-",
+"method" : "aes-256-cfb",
+"auth" : false,
+"remarks" : "mgm5.sspw.pw"}
+
+],
+    },
+    {"server" : "107.181.154.72",
+"server_port" : 453,
+"password" : "ChEnBo",
+"method" : "aes-256-cfb",
+"remarks" : "ChEnBo",
+"auth" : false,
+"strategy" : null,
+"index" : 0,
+"global" : false,
+"enabled" : true,
+"shareOverLan" : true,
+"isDefault" : false,
+"localPort" : 1080,
+"pacUrl" : null,
+"useOnlinePac" : false,
+"availabilityStatistics" : false}
+=======
+{
+"configs" : [
+  {
+"server" : "mgm5.sspw.pw",
+"server_port" : 443,
+"password" : "-6ffPrz-",
+"method" : "aes-256-cfb",
+"auth" : false,
+"remarks" : "mgm5.sspw.pw"}
+
+],
+    },
+    {"server" : "107.181.154.72",
+"server_port" : 453,
+"password" : "ChEnBo",
+"method" : "aes-256-cfb",
+"remarks" : "ChEnBo",
+"auth" : false,
+"strategy" : null,
+"index" : 0,
+"global" : false,
+"enabled" : true,
+"shareOverLan" : true,
+"isDefault" : false,
+"localPort" : 1080,
+"pacUrl" : null,
+"useOnlinePac" : false,
+"availabilityStatistics" : false}
+>>>>>>> 2abdb2e3a24a7144f6e9a89c8664e5d0469ec446
